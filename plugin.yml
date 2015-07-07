@@ -1,0 +1,9 @@
+name: DG
+version: 1.0
+description: awd
+main: Trubby.co.th.DG
+author: Tub
+depend: [WorldEdit]
+commands:
+  dg:
+  rs:
